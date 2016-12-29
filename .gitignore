@@ -1,3 +1,7 @@
+node_modules/
+bower_components/
+.tmp/
+
 # Compiled Python files
 *.pyc
 
@@ -12,3 +16,5 @@ Thumbs.db
 # Files that might appear on external disks
 .Spotlight-V100
 .Trashes
+
+.extra
