@@ -1,7 +1,6 @@
 [user]
 	name = Steven Hargrove
 	email = steven.hargrove@gmail.com
-  # signingkey = 97267CD03818C4D1
 [core]
 	excludesfile = ~/.gitignore
 	attributesfile = ~/.gitattributes
